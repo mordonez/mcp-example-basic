@@ -83,8 +83,6 @@ npm run build
 
 # Ejemplo
 
-# Ejemplo
-
 Aquí hay algunos ejemplos de cómo funciona este servidor MCP cuando se integra con Claude:
 
 ## Alertas meteorológicas
