@@ -43,7 +43,6 @@ Este proyecto ha sido desarrollado siguiendo el tutorial oficial de la documenta
        "weather": {
          "command": "node",
          "args": [
-            // Ejemplo: /Users/mordonez/Development/GitHub/mcp-example-basic/build/index.js
            "/ruta/completa/a/mcp-example-basic/build/index.js"
          ]
        }
