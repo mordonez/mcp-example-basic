@@ -81,6 +81,26 @@ Para recompilar después de cambios:
 npm run build
 ```
 
+# Ejemplo
+
+# Ejemplo
+
+Aquí hay algunos ejemplos de cómo funciona este servidor MCP cuando se integra con Claude:
+
+## Alertas meteorológicas
+
+![Ejemplo de alertas meteorológicas](docs/example2.png)
+
+![Ejemplo de alertas meteorológicas](docs/example3.png)
+
+## Pronóstico del tiempo
+
+![Ejemplo de alertas meteorológicas](docs/example1.png)
+
+## Configuración
+
+![Configuración del servidor MCP](docs/example4.png)
+
 ## Licencia
 
 ISC
